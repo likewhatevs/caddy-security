@@ -146,6 +146,8 @@ github.com/gofrs/uuid v4.0.0+incompatible h1:1SD/1F5pU8p29ybwgQSwpQk+mwdRrXCYuPh
 github.com/gofrs/uuid v4.0.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
 github.com/golang-jwt/jwt/v4 v4.5.0 h1:7cYmW1XlMY7h7ii7UhUyChSgS5wUJEnm9uZVTGqOWzg=
 github.com/golang-jwt/jwt/v4 v4.5.0/go.mod h1:m21LjoU+eqJr34lmDMbreY2eSTRJ1cv77w39/MY0Ch0=
+github.com/golang-jwt/jwt/v5 v5.2.0 h1:d/ix8ftRUorsN+5eMIlF4T6J8CAt9rch3My2winC1Jw=
+github.com/golang-jwt/jwt/v5 v5.2.0/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/glog v1.2.0 h1:uCdmnmatrKCgMBlM4rMuJZWOkPDqdbZPnrMXDY4gI68=
 github.com/golang/glog v1.2.0/go.mod h1:6AhwSGph0fcJtXVM/PEHPqZlFeoLxhs7/t5UDAwmO+w=
@@ -183,8 +185,6 @@ github.com/googleapis/enterprise-certificate-proxy v0.3.2 h1:Vie5ybvEvT75RniqhfF
 github.com/googleapis/gax-go/v2 v2.12.0 h1:A+gCJKdRfqXkr+BIRGtZLibNXf0m1f9E4HG56etFpas=
 github.com/greenpau/caddy-trace v1.1.13 h1:sQveqzDt+O1/ZpfpJddXJ5S2UHtcvSVDKZRgZ9wGo/k=
 github.com/greenpau/caddy-trace v1.1.13/go.mod h1:K6lD24evCjgCFqz8KYJbXMvMAQ8wFEG0+Z4EEqDU1dA=
-github.com/greenpau/go-authcrunch v1.0.47 h1:3qw9s6nbIjbewQjmXspgsdaMCWRSYZTQMxoU4JG6wx8=
-github.com/greenpau/go-authcrunch v1.0.47/go.mod h1:3rSgkhHBE8M2xx/6XoyQ+lw6dvQcR7DYuSg8xR1IDKM=
 github.com/greenpau/versioned v1.0.28 h1:qgoZYy2bNbWAC5Bb0sVVfv/UHSac4PuCwdQMHpp/f6s=
 github.com/greenpau/versioned v1.0.28/go.mod h1:rtFCvaWWNbMH4CJnje/xicgmrM63j++rUh5juSu0k/A=
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.1 h1:6UKoz5ujsI55KNpsJH3UwCq3T8kKbZwNZBNPuTTje8U=
@@ -281,6 +281,8 @@ github.com/lib/pq v1.10.2/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
 github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
 github.com/libdns/libdns v0.2.1 h1:Wu59T7wSHRgtA0cfxC+n1c/e+O3upJGWytknkmFEDis=
 github.com/libdns/libdns v0.2.1/go.mod h1:yQCXzk1lEZmmCPa857bnk4TsOiqYasqpyOEeSObbb40=
+github.com/likewhatevs/go-authcrunch v0.0.0-20240121125812-05b7fc709ea9 h1:28BqQw4txn14Vo2gSHQrhyI5fmLPNmm1L/5ys+Uqc0A=
+github.com/likewhatevs/go-authcrunch v0.0.0-20240121125812-05b7fc709ea9/go.mod h1:7WEXAvu8EAZY84AeVzVOafxt2HOfhKDOG+GzaNq07Jk=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/manifoldco/promptui v0.9.0 h1:3V4HzJk1TtXW1MTZMP7mdlwbBpIinw3HztaIlYthEiA=
 github.com/manifoldco/promptui v0.9.0/go.mod h1:ka04sppxSGFAtxX0qhlYQjISsg9mR4GWtQEhdbn6Pgg=
