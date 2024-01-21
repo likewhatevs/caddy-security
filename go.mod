@@ -23,7 +23,6 @@ require (
 	github.com/alecthomas/chroma/v2 v2.11.1 // indirect
 	github.com/antlr/antlr4/runtime/Go/antlr/v4 v4.0.0-20230305170008-8188dc5388df // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
-	github.com/beevik/etree v1.2.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/caddyserver/certmagic v0.19.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
@@ -31,8 +30,6 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.3 // indirect
-	github.com/crewjam/httperr v0.2.0 // indirect
-	github.com/crewjam/saml v0.4.14 // indirect
 	github.com/dgraph-io/badger v1.6.2 // indirect
 	github.com/dgraph-io/badger/v2 v2.2007.4 // indirect
 	github.com/dgraph-io/ristretto v0.1.1 // indirect
@@ -54,7 +51,6 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-sql-driver/mysql v1.7.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
 	github.com/golang-jwt/jwt/v5 v5.2.0 // indirect
 	github.com/golang/glog v1.2.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
@@ -77,13 +73,11 @@ require (
 	github.com/jackc/pgservicefile v0.0.0-20231201235250-de7065d80cb9 // indirect
 	github.com/jackc/pgtype v1.14.0 // indirect
 	github.com/jackc/pgx/v4 v4.18.1 // indirect
-	github.com/jonboulle/clockwork v0.4.0 // indirect
 	github.com/klauspost/compress v1.17.4 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mastercactapus/proxyprotocol v0.0.4 // indirect
-	github.com/mattermost/xml-roundtrip-validator v0.1.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
@@ -103,7 +97,6 @@ require (
 	github.com/quic-go/qtls-go1-20 v0.4.1 // indirect
 	github.com/quic-go/quic-go v0.40.0 // indirect
 	github.com/rs/xid v1.5.0 // indirect
-	github.com/russellhaering/goxmldsig v1.4.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
@@ -165,4 +158,4 @@ require (
 	howett.net/plist v1.0.1 // indirect
 )
 
-replace github.com/greenpau/go-authcrunch => github.com/likewhatevs/go-authcrunch v0.0.0-20240121125812-05b7fc709ea9
+replace github.com/greenpau/go-authcrunch => github.com/likewhatevs/go-authcrunch v0.0.0-20240121141013-94f0d9e87a6e
